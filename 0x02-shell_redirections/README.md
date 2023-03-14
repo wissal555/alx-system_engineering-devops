@@ -1,1 +1,1 @@
-A script that prints "hello, Word"
+Shell, I/O Redirections and filters
