@@ -1,1 +1,1 @@
-A script that Ãprints "hello, Word"
+A script that prints "hello, Word"
